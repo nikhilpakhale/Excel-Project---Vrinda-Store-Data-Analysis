@@ -23,6 +23,6 @@ While executing this project, I learned and used Data Cleaning, Data Processing,
 * Adult age group (30-49 years) is contributing in maximum orders (~50%)
 * Amazon, Flipkart and Myntra channels are contributing to maximum sales (~80%)
 
-**Action Point:** Target marketing campaigns to women customers of age group (30-49 years) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads of offers/coupons available on Amazon, Flipkart and Myntra.
+**Action Points:** Target marketing campaigns to women customers of age group (30-49 years) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads of offers/coupons available on Amazon, Flipkart and Myntra.
 
 Thanks for your guidance Rishabh Mishra.
